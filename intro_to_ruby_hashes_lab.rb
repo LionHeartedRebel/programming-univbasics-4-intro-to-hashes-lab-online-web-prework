@@ -1,6 +1,6 @@
 def new_hash 
-  {
-    
+  h = {
+    :a =>
   }
  
 end
